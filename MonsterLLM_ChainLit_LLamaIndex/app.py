@@ -49,7 +49,7 @@ async def start():
     cl.user_session.set("query_engine", query_engine)
 
     await cl.Message(
-        author="Assistant", content="Hello! Im an FinMuni a assistant focussed on Indian Finance still learnign ropes. How may I help you?"
+        author="Assistant", content="Hello! Im an AI assistant focussed. How may I help you?"
     ).send()
 
 
