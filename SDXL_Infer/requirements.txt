@@ -1,0 +1,6 @@
+diffusers>=0.11.1 
+transformers==4.38.2
+gradio 
+ftfy 
+accelerate
+monsterapi==1.0.7
